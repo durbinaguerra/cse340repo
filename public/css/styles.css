@@ -5,6 +5,6 @@
   box-sizing: border-box;
 }
 
-body {
- background-image: url("/images/checkboard.jpg");
-}
+ body {
+    background: url('../images/site/checkerboard.jpg') repeat;
+  }
